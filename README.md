@@ -1,6 +1,7 @@
 # Web Scraping Labs Repository
 
 This repository contains three interactive labs demonstrating different web scraping techniques using Python. Each lab focuses on a different popular tool: Scrapy, Beautiful Soup, and Selenium.
+This project was done in the subject 'Web analytics' in collaboration with the students named in the notebook file.
 
 ## Contents
 
